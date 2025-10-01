@@ -22,7 +22,7 @@ The project includes:
 
 ## 🛠️ Tech Stack
 - Python 3.12   
-- Libraries: `heapq', 'collections', 'time', 'matplotlib', 'math', 'queue', 'stack_data'
+- Libraries: 'matplotlib', 'stack_data'
 
 ---
 files: 
