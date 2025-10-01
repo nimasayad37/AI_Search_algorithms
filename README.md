@@ -25,12 +25,12 @@ The project includes:
 - Libraries: 'matplotlib', 'stack_data'
 
 ---
-files: 
-  algorithms.py: this file contains the logic of the algorithms used, and the heuristic function that uses the euclidien distance.
-  graphics.py: handles the graphics of the project and generates the results frame by frame
-  mazeGenerator: creates the maze that the algorithms work on.
-  main.py: the main file.
-  AIProjectNo_2final.doc: an essay that goes into details on the projects and the results reached.
+- Files: 
+  - algorithms.py: This file contains the logic of the algorithms used, and the heuristic function that uses the euclidien distance.
+  - graphics.py: Handles the graphics of the project and generates the results frame by frame
+  - mazeGenerator: Creates the maze that the algorithms work on.
+  - main.py: The main file.
+  - AIProjectNo_2final.doc: An essay that goes into details on the projects and the results reached.
 
 ## 📦 Installation
 ```bash
